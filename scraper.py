@@ -19,7 +19,6 @@ class SunbeamScraper:
         self.precat_links = []
 
 #...Scraping all links from main website
-
     def scrape_all_links(self):
         self.driver.get(self.base_url)
         time.sleep(5)
