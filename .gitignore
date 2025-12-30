@@ -1,6 +1,7 @@
 #...Virtual Environment...
 venv_project/
 
-
 #...Data Folder..
 data/
+    sunbeam_complete_data.json
+
